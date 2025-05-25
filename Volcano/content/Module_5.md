@@ -611,4 +611,6 @@ SQLAlchemy 的引擎 (`create_engine` 或 `create_async_engine`) 默认会管理
 
 通过这些知识，你现在可以为你的 FastAPI 应用构建功能完善的数据持久层了。在下一个模块中，我们将关注 API 的安全性，实现用户认证和授权。
 
---- 
+---
+
+[返回大纲](#outline) 

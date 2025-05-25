@@ -344,4 +344,6 @@ async def create_item_for_user_protected(
 
 通过实施这些安全措施，你可以大大增强你的 FastAPI 应用抵御常见威胁的能力。记住，安全是一个持续的过程，需要不断学习和适应新的挑战。
 
---- 
+---
+
+[返回大纲](#outline) 
